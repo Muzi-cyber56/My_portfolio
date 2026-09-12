@@ -1,0 +1,109 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 2563 >>
+stream
+BT /F1 9 Tf 42 790 Td 15 TL
+(SENTINEL / INVESTIGATION REPORT) Tj T*
+(INV-2026-85B74B55) Tj T*
+(Public infrastructure review) Tj T*
+(Status: In progress | Priority: High) Tj T*
+(Generated \(UTC\): 2026-09-06T09:21:55.2550069+00:00) Tj T*
+() Tj T*
+(CASE SUMMARY) Tj T*
+(DEMONSTRATION CASE   public example inputs only. Review domains and research leads.) Tj T*
+() Tj T*
+(FINDINGS) Tj T*
+(Phone format: Valid E.164-shaped number \(not proof of an active line\).) Tj T*
+(Source: Local validation / DNS | Confidence: 100%) Tj T*
+(Number: +923001234567) Tj T*
+(Source: Local validation / DNS | Confidence: 100%) Tj T*
+(Provider status: Carrier, subscriber identity and live location are not available.) Tj T*
+(Source: Local validation / DNS | Confidence: 0%) Tj T*
+(Email syntax: Valid syntax; mailbox existence is unverified.) Tj T*
+(Source: Local validation / DNS | Confidence: 100%) Tj T*
+(Mail domain: example.com) Tj T*
+(Source: Local validation / DNS | Confidence: 100%) Tj T*
+(Domain registration lead: Open the domain registration lookup for manual review.) Tj T*
+(Source: https://lookup.icann.org/en/lookup?name=example.com | Confidence: 0%) Tj T*
+(Provider status: Breach records and mailbox ownership have not been queried.) Tj T*
+(Source: Local validation / DNS | Confidence: 0%) Tj T*
+(GitHub lead: Unverified profile URL; open to review.) Tj T*
+(Source: https://github.com/example | Confidence: 0%) Tj T*
+(Reddit lead: Unverified profile URL; open to review.) Tj T*
+(Source: https://www.reddit.com/user/example/ | Confidence: 0%) Tj T*
+(Attribution: A matching username does not establish a shared identity.) Tj T*
+(Source: Local validation / DNS | Confidence: 0%) Tj T*
+(IP address: 8.8.8.8) Tj T*
+(Source: Local validation / DNS | Confidence: 100%) Tj T*
+(Address family: InterNetwork) Tj T*
+(Source: Local validation / DNS | Confidence: 100%) Tj T*
+(Registration lead: Unverified IP registration lookup.) Tj T*
+(Source: https://rdap.org/ip/8.8.8.8 | Confidence: 0%) Tj T*
+(Attribution: An IP address alone does not identify a person or precise location.) Tj T*
+(Source: Local validation / DNS | Confidence: 0%) Tj T*
+(Domain: example.com) Tj T*
+(Source: Local validation / DNS | Confidence: 100%) Tj T*
+(Registration lead: Unverified registration lookup.) Tj T*
+(Source: https://lookup.icann.org/en/lookup?name=example.com | Confidence: 0%) Tj T*
+(DNS address: 104.20.23.154) Tj T*
+(Source: Local validation / DNS | Confidence: 100%) Tj T*
+(DNS address: 172.66.147.243) Tj T*
+(Source: Local validation / DNS | Confidence: 100%) Tj T*
+(Page 1 / 2) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 999 >>
+stream
+BT /F1 9 Tf 42 790 Td 15 TL
+() Tj T*
+(EVIDENCE / SHA-256) Tj T*
+(pixel.png) Tj T*
+(Source: Synthetic test fixture; not real investigation evidence) Tj T*
+(SHA-256: f3ec9e14b9c085b55edc96155f7bd26b6fdeda2462f02af4e0279d8319b365e3) Tj T*
+(Integrity: Verified | Collected: 2026-09-06T09:21:54.6366794+00:00) Tj T*
+(review-note.txt) Tj T*
+(Source: Synthetic test fixture; not real investigation evidence) Tj T*
+(SHA-256: f2d9d0639b63a3cbc7f29261c19d3829a74ac841cc645a38f1476167742c7c8c) Tj T*
+(Integrity: Verified | Collected: 2026-09-06T09:21:54.4826020+00:00) Tj T*
+() Tj T*
+(LIMITATIONS) Tj T*
+(Public-source URLs are leads, not verified accounts. Format validation does not establis) Tj T*
+(h identity. Hash verification establishes byte consistency, not authenticity. EXIF can b) Tj T*
+(e edited; OCR requires a configured local engine. See evidence metadata for extraction s) Tj T*
+(tatus. This PDF uses ASCII text; original Unicode values remain in the database and app.) Tj T*
+(Page 2 / 2) Tj
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000189 00000 n 
+0000000315 00000 n 
+0000002930 00000 n 
+0000003056 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+4106
+%%EOF

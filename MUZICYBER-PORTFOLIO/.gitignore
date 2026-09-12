@@ -1,0 +1,12 @@
+**/bin/
+**/obj/
+**/.dart_tool/
+**/build/
+**/.idea/
+**/*.iml
+**/appsettings.Local.json
+**/local.properties
+tmp/
+evidence/**/*
+reports/generated/*
+!**/.gitkeep

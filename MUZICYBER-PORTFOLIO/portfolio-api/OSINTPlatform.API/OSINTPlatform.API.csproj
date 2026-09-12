@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup><UserSecretsId>osint-platform-local-development</UserSecretsId></PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../OSINTPlatform.Infrastructure/OSINTPlatform.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>
