@@ -1,6 +1,6 @@
 param([string]$SqlServer = '.\SQLEXPRESS')
 $ErrorActionPreference = 'Stop'
-$taskApi = Join-Path $PSScriptRoot '../backend/OSINTPlatform.API'
+$taskApi = Join-Path $PSScriptRoot '../portfolio-api/OSINTPlatform.API'
 $taskLocal = Join-Path $taskApi 'appsettings.Local.json'
 if (-not (Test-Path -LiteralPath $taskLocal)) {
   $taskBytes = New-Object byte[] 48
